@@ -1,0 +1,103 @@
+### **AI Website Design Prompt for Re-Fire (Premium & Luxurious Like Apple)**  
+
+**Objective:**  
+Create a **high-end, luxurious, and premium** e-commerce website for **Re-Fire**, a **next-generation lithium-ion power solutions** brand. The design should exude **modern sophistication, minimalism, and high-tech innovation**, similar to **Apple, Tesla, or Dyson**.  
+
+---
+
+### **1. Brand Identity & Feel**  
+- **Brand Name:** Re-Fire  
+- **Tagline:** *Power That Never Quits*  
+- **Brand Colors:** Black, Green, and White (luxury + eco-friendly tech feel)  
+- **Target Audience:**  
+  - Adventurers (trekkers, campers, RV users)  
+  - Professionals (photographers, remote workers, event planners)  
+  - Business buyers (army, construction, small shops)  
+  - Tech-savvy consumers looking for **portable power solutions**  
+- **Brand Vibe:**  
+  - **Premium, cutting-edge, and eco-friendly**  
+  - **Minimal yet powerful** (like Apple's simplicity)  
+  - **Trustworthy, rugged, and durable** (outdoor reliability)  
+  - **Smart, intuitive, and future-ready**  
+
+---
+
+### **2. Design Style & UI/UX Approach**  
+- **Minimalist & Clean UI**:  
+  - Apple-like **smooth white and black contrast**  
+  - **Subtle gradients and shadows** for a depth effect  
+  - Lots of **breathing space** with sharp typography  
+- **Premium Product Presentation**:  
+  - **Large, high-resolution hero images** with dark backgrounds  
+  - 360° product views, interactive demos  
+  - Close-up shots of details (battery cells, ports, LED indicators)  
+- **Luxury Typography**:  
+  - **Sans-serif fonts** (like SF Pro, Helvetica, or Montserrat)  
+  - Headlines in **bold, clean uppercase**  
+  - Soft, refined subtext in **smaller font weights**  
+- **Dark Mode Option**:  
+  - A **toggle** for a sleek, **black-themed UI**  
+  - Dark backgrounds with neon green and white highlights  
+
+---
+
+### **3. Website Structure & Key Pages**  
+
+#### **Homepage (First Impression Matters)**
+- **Full-screen video background**: Shows power stations in action (trekkers, storm emergencies, work sites)  
+- **Tagline with Bold Minimal Text**: *"Reliable Power, Anytime, Anywhere."*  
+- **Floating Product Showcase**: A **smooth, scrolling animation** showcasing power stations  
+- **Subtle Animations**: Hover effects, smooth fades, and swipe interactions  
+- **"Why Re-Fire?" Section**: Bullet points highlighting **long-lasting battery life, smart power management, ultra-fast charging**  
+
+#### **Product Pages (Luxury Tech Feel)**
+- **Cinematic scrolling effect**: Like Tesla’s website  
+- **Clean, image-heavy layout**: Less text, more immersive visuals  
+- **Key Highlights in Icons**:  
+  - 🔋 **Lithium-ion Battery** (Long-lasting)  
+  - ⚡ **Fast Charging** (Recharge 80% in X hours)  
+  - 🌍 **Eco-Friendly & Silent** (No fumes, no noise)  
+- **Comparison Table**: Place Re-Fire vs traditional generators side by side  
+- **Interactive Reviews**: Video testimonials, user-generated content  
+
+#### **About Us (Brand Story)**
+- **Luxury lifestyle storytelling**: Connect power solutions to freedom & adventure  
+- **High-end photography**: Showcases products in premium settings  
+- **Innovation Section**: Highlights cutting-edge battery tech  
+- **Sustainability Section**: Focus on eco-friendly benefits  
+
+#### **Buy Now / Checkout Page**
+- **Apple-style smooth checkout** (One-page, clean)  
+- **Fast, seamless purchasing**: Add **Apple Pay, Google Pay, UPI**  
+- **Product customizations**: Add-ons (solar panels, cases, extra batteries)  
+- **Delivery timeline tracker**  
+
+#### **Support & FAQs**
+- **Minimalist, well-organized knowledge base**  
+- **Live chat & AI-powered assistant**  
+
+---
+
+### **4. Advanced Features & Effects**
+- **Dynamic 3D product viewer** (rotate & explore product details)  
+- **Parallax scrolling** (depth effect, smooth transitions)  
+- **Floating "Add to Cart" button** (Apple-style)  
+- **Ultra-fast page load speeds** (optimized for mobile & desktop)  
+- **SEO-optimized product descriptions** (rank for "best portable power station in India")  
+
+---
+
+### **5. Inspiration Websites for Reference**
+- **Apple (www.apple.com)** – Minimalism, clean product pages  
+- **Tesla (www.tesla.com)** – Sleek product storytelling & 3D effects  
+- **EcoFlow (www.ecoflow.com)** – Modern battery tech showcase  
+
+---
+
+### **Final Notes**
+- **Mobile-first design** (Most traffic comes from phones)  
+- **Premium, polished animations** (Smooth transitions, no clutter)  
+- **Strong call-to-action buttons** (Buy Now, Explore, Learn More)  
+- **Dark-themed footer with a futuristic neon green glow**  
+
+**Goal:** **A high-tech, luxurious, seamless website experience that builds trust & premium perception of Re-Fire.** 🚀⚡

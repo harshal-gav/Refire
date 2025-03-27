@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+  
+  :root {
+    --refire-black: 0 0% 7%;
+    --refire-dark: 0 0% 13%;
+    --refire-gray: 0 0% 53%;
+    --refire-light: 0 0% 95%;
+    --refire-green: 142 100% 50%;
+    --refire-neon: 151 100% 60%;
+    
+    /* light theme colors */
+    --background: 0 0% 100%;
+    --foreground: var(--refire-black);
+    
+    --card: 0 0% 95%;
+    --card-foreground: var(--refire-black);
+ 
+    --popover: 0 0% 100%;
+    --popover-foreground: var(--refire-black);
+ 
+    --primary: var(--refire-black);
+    --primary-foreground: 0 0% 100%;
+ 
+    --secondary: var(--refire-light);
+    --secondary-foreground: var(--refire-black);
+ 
+    --muted: 0 0% 93%;
+    --muted-foreground: var(--refire-gray);
+ 
+    --accent: var(--refire-green);
+    --accent-foreground: var(--refire-black);
+ 
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 85%;
+    --input: 0 0% 85%;
+    --ring: var(--refire-black);
+ 
+    --radius: 0.5rem;
+  }
+ 
+  .dark {
+    --background: var(--refire-black);
+    --foreground: 0 0% 100%;
+ 
+    --card: var(--refire-dark);
+    --card-foreground: 0 0% 100%;
+ 
+    --popover: var(--refire-dark);
+    --popover-foreground: 0 0% 100%;
+ 
+    --primary: 0 0% 100%;
+    --primary-foreground: var(--refire-black);
+ 
+    --secondary: var(--refire-dark);
+    --secondary-foreground: 0 0% 100%;
+ 
+    --muted: 0 0% 20%;
+    --muted-foreground: 0 0% 70%;
+ 
+    --accent: var(--refire-green);
+    --accent-foreground: var(--refire-black);
+ 
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+ 
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 0 0% 70%;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  }
+  
+  .neon-glow {
+    box-shadow: 0 0 10px 2px hsl(151 100% 60% / 0.2);
+  }
+  
+  .hero-content {
+    @apply z-10 relative;
+  }
+  
+  .hero-overlay {
+    @apply absolute inset-0 bg-black/60 z-0;
+  }
+  
+  .hero-image {
+    @apply absolute inset-0 w-full h-full object-cover z-[-1] filter brightness-50;
+  }
+  
+  .floating {
+    animation: float 4s ease-in-out infinite;
+  }
+  
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  .footer-glow {
+    @apply absolute bottom-0 left-1/2 -translate-x-1/2 w-1/2 h-1 bg-accent blur-xl;
+  }
+}
